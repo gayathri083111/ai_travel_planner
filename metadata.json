@@ -1,0 +1,6 @@
+{
+  "name": "AI Travel Planner Pro",
+  "description": "Clean, smart AI Travel Planner with real dynamic weather, custom itineraries, hotels, restaurants, and interactive place guides.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
